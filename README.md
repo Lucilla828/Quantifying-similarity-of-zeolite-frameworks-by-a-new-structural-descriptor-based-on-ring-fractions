@@ -14,7 +14,7 @@ The generated graph can be visualized using **Gephi**.
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## How to Run
