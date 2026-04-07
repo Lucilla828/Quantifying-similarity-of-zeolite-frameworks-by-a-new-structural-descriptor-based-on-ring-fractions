@@ -20,14 +20,15 @@ pip install -r requirements.txt
 ## How to Run
 
 Run the main script:
-
+```bash
 python Louvain-community-detection.py
+```
 
 ## Output
 
 After execution, the following files will be generated:
 
-Graph file (for Gephi)
+Graph file (for Gephi)：
 rings_graph.gexf
 
 This file can be directly imported into Gephi for visualization.
